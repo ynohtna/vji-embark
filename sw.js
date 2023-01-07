@@ -93,7 +93,7 @@ define(['./workbox-d2a14864'], (function (workbox) { 'use strict';
     "url": "app_/immutable/chunks/1-81822760.js",
     "revision": null
   }, {
-    "url": "app_/immutable/chunks/2-1cbcac3e.js",
+    "url": "app_/immutable/chunks/2-fce8461b.js",
     "revision": null
   }, {
     "url": "app_/immutable/chunks/3-bb485333.js",
@@ -135,7 +135,7 @@ define(['./workbox-d2a14864'], (function (workbox) { 'use strict';
     "url": "app_/immutable/components/pages/_layout.svelte-6b25eb68.js",
     "revision": null
   }, {
-    "url": "app_/immutable/components/pages/_page.svelte-5a724bf6.js",
+    "url": "app_/immutable/components/pages/_page.svelte-80eb4840.js",
     "revision": null
   }, {
     "url": "app_/immutable/components/pages/admin/_page.svelte-d14ce76f.js",
@@ -150,7 +150,7 @@ define(['./workbox-d2a14864'], (function (workbox) { 'use strict';
     "url": "app_/immutable/modules/pages/_layout.js-fa3c4266.js",
     "revision": null
   }, {
-    "url": "app_/immutable/start-03cf74d6.js",
+    "url": "app_/immutable/start-6ef7f8b0.js",
     "revision": null
   }, {
     "url": "favicon.ico",
@@ -169,16 +169,16 @@ define(['./workbox-d2a14864'], (function (workbox) { 'use strict';
     "revision": "60576af2938ca8448a338547f0572dd1"
   }, {
     "url": "./admin",
-    "revision": "f1d80f2959c10e7680a2a819bbe9787c"
+    "revision": "a6f74d7f1f40fae50d8b0b8a685e02bd"
   }, {
     "url": "./",
-    "revision": "2406b654b22222bdf7ea19cb8c4cfeb2"
+    "revision": "628868311a1017f7435d49b9bba2e48e"
   }, {
     "url": "./phone",
-    "revision": "11f7585d39c72cb191843b221b3bca1f"
+    "revision": "5f0181fcd48309cb5f9dd40bc69ff6fc"
   }, {
     "url": "./tablet",
-    "revision": "7e32b6ec5d792dd159768aafd109aea9"
+    "revision": "d60866d1e1f505b190bc7daffeb2ff50"
   }, {
     "url": "manifest.webmanifest",
     "revision": "f7891dcc3588831cf22ee1095446719b"

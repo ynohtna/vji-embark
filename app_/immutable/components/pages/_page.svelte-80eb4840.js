@@ -653,7 +653,7 @@ function instance($$self, $$props, $$invalidate) {
         return [
           ["$app/environment/version", version],
           ["Detached Build", false],
-          ["Build Date", "2023-01-07T12:54:09.966Z"],
+          ["Build Date", "2023-01-07T13:39:50.785Z"],
           ["Build Tag", "embark"],
           ["$app/environment/browser", browser],
           ["$app/environment/dev", dev],
